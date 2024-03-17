@@ -1,0 +1,4 @@
+﻿  3.17.c
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_3.17\test_3.17\3.17.c(44,5): warning C4013: “execl”未定义；假设外部返回 int
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_3.17\test_3.17\3.17.c(44,38): error C2065: “NULL”: 未声明的标识符
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_3.17\test_3.17\3.17.c(45,5): warning C4013: “printf”未定义；假设外部返回 int
