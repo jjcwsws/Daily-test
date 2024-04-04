@@ -1,0 +1,9 @@
+﻿  test-5.16.c
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(32,1): error C2040: “pulPtr”:“int”与“unsigned long *”的间接寻址级别不同
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(33,10): error C2143: 语法错误: 缺少“)”(在“+”的前面)
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(33,10): error C2143: 语法错误: 缺少“{”(在“+”的前面)
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(33,10): error C2059: 语法错误:“+”
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(33,13): error C2059: 语法错误:“)”
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(34,8): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(34,8): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+D:\VS\比特\yan-yijue-ox\比特日常代码作业\新建文件夹\Project6\Project6\test-5.16.c(34,8): error C2059: 语法错误:“字符串”
