@@ -1,0 +1,7 @@
+﻿  test_8.13.c
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(1,7): error C2061: 语法错误: 标识符“system”
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(1,7): error C2059: 语法错误:“;”
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(3,7): error C2061: 语法错误: 标识符“HeartShape”
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(3,7): error C2059: 语法错误:“;”
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(4,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VS\比特\yan-yijue-ox\比特C++课程开始\test_8.13\test_8.13\test_8.13.c(21,1): error C2059: 语法错误:“}”
