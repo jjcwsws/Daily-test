@@ -1,0 +1,4 @@
+﻿  test_5.3.12.c
+C:\Users\Administrator\Desktop\BITE\yan-yijue-ox\C++\test_5.3.12\test_5.3.12\test_5.3.12.c(3,10): warning C4013: “ILoveYou”未定义；假设外部返回 int
+test_5.3.12.obj : error LNK2019: 无法解析的外部符号 _ILoveYou，函数 _main 中引用了该符号
+C:\Users\Administrator\Desktop\BITE\yan-yijue-ox\C++\test_5.3.12\Debug\test_5.3.12.exe : fatal error LNK1120: 1 个无法解析的外部命令
